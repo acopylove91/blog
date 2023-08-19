@@ -2,6 +2,7 @@
 title: "Call-center operator workplace"
 date: 2023-08-19T17:48:33+04:00
 draft: false
+ShowToc: true
 ---
 
 # Team
