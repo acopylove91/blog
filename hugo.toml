@@ -1,3 +1,4 @@
 baseURL = 'http://justcopy.net/'
 languageCode = 'en-us'
 title = 'Just copy'
+theme = 'PaperMod'
