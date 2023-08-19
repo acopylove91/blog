@@ -12,14 +12,14 @@ draft: false
 
 **Designer**: Anton Kopylov
 
-# About project
+# Проблема
 
-The company aimed to increase the number of users. The previous version of the product was poorly designed, prompting the company to make changes. They prepared a well-described structure of features for the new version, but there was a lack of understanding of how exactly users would implement the current product to meet their needs.
+Компания нацелелилась на увеличение количества пользователей. Предыдущая версия продукта выглядела устаревшей. Также предыдущую версию создавали без исследования пользователей, их потребностей и целей, на основе экспертного мнения стейкхолдеров. В результат, чтобы разобраться в интерфейсе, пользователям приходилось проходить обучающие семинары и изучать справочную документацию.
 
-The company decided to:
+Компания решила:
 
-- **research how users are using the current version;**
-- **design a more useful solution — remake the user flow, and expand the list of features**
+- узнать как пользователи используют текущую версию продукта;
+- спроектировать более удобное решение, чтобы помочь пользователям лучше достигать их целей.
 
 # My actions
 
