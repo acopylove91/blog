@@ -3,3 +3,18 @@ languageCode = 'en-us'
 title = 'Just copy'
 theme = 'PaperMod'
 googleAnalytics = 'G-YP2QQMZHDC'
+
+[[menu.main]]
+identifier = 'posts'
+name = 'Posts'
+url = '/posts/'
+weight = 1
+
+[[menu.main]]
+identifier = 'folio'
+name = 'Portfolio'
+url = '/folio/'
+weight = 2
+
+[params]
+mainSections = ['posts']
