@@ -1,6 +1,6 @@
 ---
 title: "Lack of communication leads to fails"
-date: 2023-08-20T19:59:00+04:00
+date: 2023-08-21T00:33:00+04:00
 draft: false
 categories: #project-stories
 ---
