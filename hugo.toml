@@ -6,21 +6,31 @@ googleAnalytics = 'G-YP2QQMZHDC'
 enableRobotsTXT = true
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = true
-
-# [[menu.main]]
-# identifier = 'posts'
-# name = 'Posts'
-# url = '/posts/'
-# weight = 1
-#
-# [[menu.main]]
-# identifier = 'folio'
-# name = 'Portfolio'
-# url = '/folio/'
-# weight = 2
+env = 'production'
 
 [params]
 mainSections = ['posts']
+ShareButtons = true
+ShowShareButtons = true
+
+[params.homeInfoParams]
+Title = 'Hi! My name is Anton.'
+Content = """I’ve made some difficult projects as an ux/ui designer.\n
+My dream is make a product, that helps people to reach their goals, and make them happier.\n
+Get in touch with me to use my skills and make your product better."""
+
+[[params.socialIcons]]
+name = "linkedin"
+title = "LinkedIn"
+url = "https://www.linkedin.com/in/acopylove/"
+[[params.socialIcons]]
+name = "telegram"
+title = "Telegram"
+url = "http://t.me/acopylove"
+[[params.socialIcons]]
+name = "email"
+title = "Email"
+url = "mailto:acopylove@gmail.com"
 
 [languages]
   [languages.ru]
