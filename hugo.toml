@@ -15,9 +15,9 @@ ShowShareButtons = true
 
 [params.homeInfoParams]
 Title = 'Hi! My name is Anton.'
-Content = """I’ve made some difficult projects as an ux/ui designer.\n
-My dream is make a product, that helps people to reach their goals, and make them happier.\n
-Get in touch with me to use my skills and make your product better."""
+Content = """I've worked on challenging projects as a UX/UI designer.\n
+My dream is to create a product that helps people achieve their goals and brings them happiness.\n
+Feel free to connect with me to leverage my skills and enhance your product."""
 
 [[params.socialIcons]]
 name = "linkedin"
