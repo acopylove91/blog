@@ -9,9 +9,9 @@ A little story about a project where I participated
 
 # Project Overview
 
-Task: Design the homepage of an online store specializing in sports apparel for both desktop and responsive platforms.
+**Task:** Design the homepage of an online store specializing in sports apparel for both desktop and responsive platforms.
 
-Situation:
+**Situation:**
 
 1. The client provided functional requirements and a prototype he had personally assembled.
 2. The designer refined the prototype, enhancing its clarity. However, the client was dissatisfied with this version and began altering requirements without formal documentation.
