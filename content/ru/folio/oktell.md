@@ -5,13 +5,13 @@ draft: false
 ShowToc: true
 ---
 
-# Team
+# Команда
 
-**Art director**: Alexey Kopylov
+**Директор отдела дизайна**: Алексей Копылов
 
-**Senior designer**: Artem Ostapets
+**Ведущий дизайнер**: Артем Остапец
 
-**Designer**: Anton Kopylov
+**Дизайнер**: Антон Копылов
 
 # Проблема
 
