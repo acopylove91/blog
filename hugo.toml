@@ -30,7 +30,7 @@ url = "http://t.me/acopylove"
 [[params.socialIcons]]
 name = "email"
 title = "Email"
-url = "mailto:me@justcopy.net"
+url = "mailto:contact@justcopy.net"
 
 [languages]
   [languages.ru]
