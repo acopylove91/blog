@@ -4,18 +4,55 @@ title = 'Just copy'
 theme = 'PaperMod'
 googleAnalytics = 'G-YP2QQMZHDC'
 enableRobotsTXT = true
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
 
-[[menu.main]]
-identifier = 'posts'
-name = 'Posts'
-url = '/posts/'
-weight = 1
-
-[[menu.main]]
-identifier = 'folio'
-name = 'Portfolio'
-url = '/folio/'
-weight = 2
+# [[menu.main]]
+# identifier = 'posts'
+# name = 'Posts'
+# url = '/posts/'
+# weight = 1
+#
+# [[menu.main]]
+# identifier = 'folio'
+# name = 'Portfolio'
+# url = '/folio/'
+# weight = 2
 
 [params]
 mainSections = ['posts']
+
+[languages]
+  [languages.ru]
+    contentDir = 'content/ru'
+    languageCode = 'ru-RU'
+    languageDirection = 'ltr'
+    languageName = 'Русский'
+    title = 'Justcopy'
+    weight = 1
+    [languages.ru.menu]
+[[languages.ru.menu.main]]
+      name = 'Посты'
+      url = '/ru/posts'
+      weight = 10
+[[languages.ru.menu.main]]
+      name = 'Портфолио'
+      url = '/ru/folio'
+      weight = 20
+
+  [languages.en]
+    contentDir = 'content/en/'
+    languageCode = 'en-US'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    title = 'Justcopy'
+    weight = 2
+    [languages.en.menu]
+[[languages.en.menu.main]]
+      name = 'Posts'
+      url = '/en/posts'
+      weight = 10
+[[languages.en.menu.main]]
+      name = 'Porfolio'
+      url = '/en/folio'
+      weight = 20
