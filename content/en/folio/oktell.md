@@ -15,12 +15,11 @@ ShowToc: true
 
 # Problem
 
-Компания нацелелилась на увеличение количества пользователей. Предыдущая версия продукта выглядела устаревшей. Также предыдущую версию создавали без исследования пользователей, их потребностей и целей, на основе экспертного мнения стейкхолдеров. В результат, чтобы разобраться в интерфейсе, пользователям приходилось проходить обучающие семинары и изучать справочную документацию.
+The company aimed for an increase in user numbers. The previous product version seemed outdated. What's more, the earlier iteration implemented without diving into user research, their needs, or objectives, relying instead on the expert's and stakeholder's opinions. As a result, users had to attend tutorial seminars and go through help documentation or helpdesk operators to crack the interface.
 
-Компания решила:
-
-- узнать как пользователи используют текущую версию продукта;
-- спроектировать более удобное решение, чтобы помочь пользователям лучше достигать их целей.
+The company has resolved to:
+- Uncover how users are currently making use of the present version of the product.
+- Architect a more user-friendly solution to help users better hit their goals
 
 # My actions
 
