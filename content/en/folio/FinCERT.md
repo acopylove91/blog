@@ -1,5 +1,5 @@
 ---
-title: "Finance and cybersecurity operator's workspace"
+title: "Finance cybersecurity department. Operator's workspace"
 date: 2023-08-20T01:12:00+04:00
 draft: false
 ---
